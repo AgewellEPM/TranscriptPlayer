@@ -1,0 +1,27 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 3.5,
+    "text": "Welcome to the Transcript Player demo."
+  },
+  {
+    "startTime": 3.5,
+    "endTime": 7.0,
+    "text": "This app allows you to play videos with synchronized transcripts."
+  },
+  {
+    "startTime": 7.0,
+    "endTime": 11.5,
+    "text": "You can search through the transcript, click on any entry to jump to that time."
+  },
+  {
+    "startTime": 11.5,
+    "endTime": 15.0,
+    "text": "Edit transcript entries, change timestamps, and export to different formats."
+  },
+  {
+    "startTime": 15.0,
+    "endTime": 19.0,
+    "text": "Built with a modular architecture for easy maintenance and extensibility."
+  }
+]

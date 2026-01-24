@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.500
+Welcome to the Transcript Player demo.
+
+00:00:03.500 --> 00:00:07.000
+This app allows you to play videos with synchronized transcripts.
+
+00:00:07.000 --> 00:00:11.500
+You can search through the transcript, click on any entry to jump to that time.
+
+00:00:11.500 --> 00:00:15.000
+Edit transcript entries, change timestamps, and export to different formats.
+
+00:00:15.000 --> 00:00:19.000
+Built with a modular architecture for easy maintenance and extensibility.

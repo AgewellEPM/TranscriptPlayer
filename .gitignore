@@ -1,0 +1,25 @@
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+DerivedData/
+.swiftpm/
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Build products
+*.app
+*.ipa
+*.dSYM.zip
+*.dSYM

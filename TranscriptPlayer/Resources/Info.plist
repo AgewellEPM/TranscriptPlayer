@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>TranscriptPlayer</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.transcriptplayer.app</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>TranscriptPlayer</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+
+	<!-- CRITICAL: Privacy Permissions -->
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>TranscriptPlayer needs speech recognition to automatically generate transcripts from video audio.</string>
+
+	<key>NSMicrophoneUsageDescription</key>
+	<string>TranscriptPlayer needs to access audio from video files to create transcripts.</string>
+
+	<!-- File Access Permissions -->
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>TranscriptPlayer needs access to open video files from your Desktop.</string>
+
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>TranscriptPlayer needs access to open video files from your Documents folder.</string>
+
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>TranscriptPlayer needs access to open video files from your Downloads folder.</string>
+
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>TranscriptPlayer needs access to open video files from external drives.</string>
+
+	<!-- High Sierra Compatibility -->
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+</dict>
+</plist>
